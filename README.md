@@ -1,14 +1,14 @@
 <div align="center">
   
-  # ¡Hola! Soy José Alberto Gómez 👋
+  # ¡Hi! I'm José Alberto Gómez García 👋
   
-  <a href="https://linkedin.com/in/TU_URL_DE_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/josé-alberto-gómez-garcía-575036271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:josegomezalberto11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/JoseGmz11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 
@@ -16,18 +16,18 @@
 
 <br/>
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-Soy **Ingeniero en Tecnologías de la Información** y **Desarrollador Full-Stack**. Me especializo en el desarrollo de aplicaciones web reactivas y la creación de arquitecturas backend robustas[cite: 8]. 
+I'm an **Information Technology Engineer** and **Full-Stack Developer**. I specialize in developing reactive web applications and building robust backend architectures. 
 
-*   💼 Tengo experiencia comprobable en el ciclo completo de desarrollo de sistemas ERP[cite: 8].
-*   ⚙️ He integrado tecnologías como Vue.js y Laravel para digitalizar y centralizar procesos financieros y operativos[cite: 8].
-*   🔍 Me destaco por mi enfoque analítico, orientado a la resolución lógica de problemas y a la entrega de soluciones de software estables y seguras[cite: 8].
-*   🌱 Actualmente enfocado en la mejora continua y el aprendizaje de nuevas tecnologías[cite: 8].
+*   💼 I have proven experience in the full development lifecycle of ERP systems.
+*   ⚙️ I have integrated technologies like Vue.js and Laravel to digitize and centralize financial and operational processes.
+*   🔍 I stand out for my analytical approach, focused on logical problem-solving and delivering stable, secure software solutions.
+*   🌱 Currently focused on continuous improvement and learning new technologies.
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### 💻 Technologies and Tools
 
 **Frontend**  
 <p>
@@ -47,7 +47,7 @@ Soy **Ingeniero en Tecnologías de la Información** y **Desarrollador Full-Stac
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
 </p>
 
-**Base de Datos y Diseño**  
+**Databases and Design**  
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq">
@@ -56,8 +56,8 @@ Soy **Ingeniero en Tecnologías de la Información** y **Desarrollador Full-Stac
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseGmz11&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
